@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/CleverStar9793/CleverStar9793/main/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/CleverStar9793/CleverStar9793/blob/main/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -56,7 +56,7 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 </table>
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
-<img align="right" alt="GIF" src="https://github.com/CleverStar9793/CleverStar9793/main/code.gif?raw=true" width="400" />
+<img align="right" alt="GIF" src="https://github.com/CleverStar9793/CleverStar9793/blob/main/code.gif?raw=true" width="400" />
  
 ### DApps & Online Betting Website
 <br />
