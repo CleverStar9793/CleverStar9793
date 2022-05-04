@@ -56,7 +56,7 @@ Accustomed to suggest ideas that can make your project more successful and you w
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
   </tr>
 </table>
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
+   
 
 <img align="left" alt="GIF" src="https://github.com/CleverStar9793/CleverStar9793/blob/main/code.gif?raw=true" width="400" />
  
