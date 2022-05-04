@@ -7,16 +7,17 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://join.skype.com/invite/A3T4pSMKQgoA"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join&color=7289DA" alt="Join Badge"/></a>
 </h1>
+<p align="center">
+  <a href="https://github.com/CleverStar9793"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Web3%20Engineer;4+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+</p>
 <img align="right" width="400" src="https://github.com/CleverStar9793/CleverStar9793/blob/main/blockchain.gif?raw=true" />
-  <p>
+<p>
  Here is a senior developer of Blockchain and cryptocurrency developer having 5 years of experience on development smart contract and DApp based on Ethereum, BSC, Solana, Fantom, etc.
 Also experienced and dedicated Web developer well versed in React, Next, Vue, Angular, Node.js and so on for over 10 years.
 In recent 3 years developed and deployed Smart Contract and build DApp by Solidity and Web3.js and developed NFT Games/Marketplaces using ERC20, ERC721, ERC1155, etc as well.
 Accustomed to suggest ideas that can make your project more successful and you will be certainly satisfied with my fast learning, quick understanding and good practice.
 </p>
-<p align="center">
-  <a href="https://github.com/CleverStar9793"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Web3%20Engineer;4+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
-</p>
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=CleverStar9793.CleverStar9793" />
 <img align="right" src="https://img.shields.io/github/followers/alexandera73?label=Follow&style=social" />
 <h1 align="center"></h1>
