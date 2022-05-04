@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/CleverStar9793/CleverStar9793/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/CleverStar9793/CleverStar9793/blob/main/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://join.skype.com/invite/A3T4pSMKQgoA"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join&color=7289DA" alt="Join Badge"/></a>
 </h1>
-<img align="right" width="400" src="https://github.com/CleverStar9793/CleverStar9793/blockchain.gif?raw=true" />
+<img align="right" width="400" src="https://github.com/CleverStar9793/CleverStar9793/blob/main/blockchain.gif?raw=true" />
   <p>
  Here is a senior developer of Blockchain and cryptocurrency developer having 5 years of experience on development smart contract and DApp based on Ethereum, BSC, Solana, Fantom, etc.
 Also experienced and dedicated Web developer well versed in React, Next, Vue, Angular, Node.js and so on for over 10 years.
@@ -58,7 +58,7 @@ Accustomed to suggest ideas that can make your project more successful and you w
 </table>
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
-<img align="right" alt="GIF" src="https://github.com/CleverStar9793/CleverStar9793/code.gif?raw=true" width="400" />
+<img align="right" alt="GIF" src="https://github.com/CleverStar9793/CleverStar9793/blob/main/code.gif?raw=true" width="400" />
  
 ### DApps & Online Betting Website
 <br />
