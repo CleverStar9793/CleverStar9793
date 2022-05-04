@@ -58,16 +58,16 @@ Accustomed to suggest ideas that can make your project more successful and you w
 </table>
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
-<img align="right" alt="GIF" src="https://github.com/CleverStar9793/CleverStar9793/blob/main/code.gif?raw=true" width="400" />
+<img align="left" alt="GIF" src="https://github.com/CleverStar9793/CleverStar9793/blob/main/code.gif?raw=true" width="400" />
  
-### DApps & Online Betting Website
-<br />
-
 ### Smart Contract & Crypto
 <br />
 
-### Crypto Trading Platforms & Bots
+### DApps & Online Betting Website
 <br />
 
 ### AR & VR Web and Mobile application
+<br />
+
+### Crypto Trading Platforms & Bots
 <br />
